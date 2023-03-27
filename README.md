@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dlehdtjq00)](https://solved.ac/dlehdtjq00)
+
+SOPT Server 32nd 🔥 (2023.03.25 ~)
