@@ -17,4 +17,8 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dlehdtjq00)](https://solved.ac/dlehdtjq00)
 
-SOPT Server 32nd 🔥 (2023.03.25 ~)
+SKKU COMEDU 🖤 (2019.03 ~)
+SKKU CMD 🤍 (2020.07 ~ 2020.12)
+GO SOPT 💜 (2023.03 ~ 2023.07)
+엄빠도 어렸다 🧡 (2023.06 ~)
+DO SOPT 💚 (2023.09 ~)
