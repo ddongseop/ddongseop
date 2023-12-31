@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - GO SOPT SERVER (2023.03 ~ 2023.07)
 - 엄빠도 어렸다 (2023.06 ~)
 - DO SOPT SERVER (2023.09 ~)
-- Lequu (2023.12 ~)
+- Lecue (2023.12 ~)
