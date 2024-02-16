@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - 성균관대 프로그래밍 학회 CMD (2020.07 ~ 2020.12)
 - GO SOPT SERVER (2023.03 ~ 2023.07)
 - 엄빠도 어렸다 (2023.06 ~)
-- DO SOPT SERVER (2023.09 ~)
+- DO SOPT SERVER (2023.09 ~ 2023.01)
 - Le(cue)* (2023.12 ~)
