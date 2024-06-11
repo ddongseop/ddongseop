@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 
 <h3>🏆 Algorithm</h3>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dlehdtjq00)](https://solved.ac/dlehdtjq00)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlehdtjq00)](https://solved.ac/dlehdtjq00)
 
